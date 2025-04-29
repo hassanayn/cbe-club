@@ -30,6 +30,45 @@ The **CBE Club** project provides a [short description of the project goals, e.g
 - [Add any unique features of your project here.]
 
 ---
+## Getting Started
+Follow these steps to get started with the project:
+
+Clone the Repository
+Use the following command to clone the repository to your local machine:
+
+bash
+git clone https://github.com/hassanayn/cbe-club.git
+Open the Project
+Navigate to the project directory:
+
+bash
+cd cbe-club
+Open in Browser
+Open the index.html file in your web browser to view the project.
+
+## Contributing
+We welcome contributions to this project! Here's how you can help:
+
+Fork the repository.
+Create a new branch for your feature or bug fix:
+bash
+git checkout -b feature-name
+Commit your changes:
+bash
+git commit -m "Add feature-name"
+Push the branch to your forked repository:
+bash
+git push origin feature-name
+Open a Pull Request to this repository.
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as per the license terms.
+
+## Contact
+For any questions or suggestions, please reach out to:
+
+Repository Owner: hassanayn
+
+Email: hassa9kashmal@gmail.com
 
 ## Project Structure
 
@@ -63,41 +102,3 @@ cbe-club/
 └── LICENSE                # License file
 
 
-Getting Started
-Follow these steps to get started with the project:
-
-Clone the Repository
-Use the following command to clone the repository to your local machine:
-
-bash
-git clone https://github.com/hassanayn/cbe-club.git
-Open the Project
-Navigate to the project directory:
-
-bash
-cd cbe-club
-Open in Browser
-Open the index.html file in your web browser to view the project.
-
-Contributing
-We welcome contributions to this project! Here's how you can help:
-
-Fork the repository.
-Create a new branch for your feature or bug fix:
-bash
-git checkout -b feature-name
-Commit your changes:
-bash
-git commit -m "Add feature-name"
-Push the branch to your forked repository:
-bash
-git push origin feature-name
-Open a Pull Request to this repository.
-License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as per the license terms.
-
-Contact
-For any questions or suggestions, please reach out to:
-
-Repository Owner: hassanayn
-Email: hassa9kashmal@gmail.com
